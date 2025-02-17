@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\userarea\\views\\user\\tasks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\userarea\\views\\user\\tasks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\userarea\\repository\\maincategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\userarea\\repository\\maincategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\userarea\\repository\\imaincategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\userarea\\repository\\imaincategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\userarea\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\userarea\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\userarea\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\userarea\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\userarea\\views\\user\\lists.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\userarea\\views\\user\\lists.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\userarea\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\userarea\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|c:\\users\\dell\\desktop\\project\\to_do_list\\to_do_list\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616945AC-12CF-46D8-937C-A996BA6DCD46}|To_Do_List\\To_Do_List.csproj|solutionrelative:to_do_list\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\appsettings.json",
+              "RelativeDocumentMoniker": "To_Do_List\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\appsettings.json",
+              "RelativeToolTip": "To_Do_List\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T22:57:42.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEgAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:28:32.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Repository\\MainCategoryRepository.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\UserArea\\Repository\\MainCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Repository\\MainCategoryRepository.cs",
+              "RelativeToolTip": "To_Do_List\\Areas\\UserArea\\Repository\\MainCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:31:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMainCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Repository\\IMainCategoryRepository.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\UserArea\\Repository\\IMainCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Repository\\IMainCategoryRepository.cs",
+              "RelativeToolTip": "To_Do_List\\Areas\\UserArea\\Repository\\IMainCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:30:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\UserArea\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Data\\Context.cs",
+              "RelativeToolTip": "To_Do_List\\Areas\\UserArea\\Data\\Context.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:29:14.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAF0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:27:32.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T22:24:32.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonalData.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeToolTip": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T22:21:55.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T22:21:38.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\UserArea\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Controllers\\UserController.cs",
+              "RelativeToolTip": "To_Do_List\\Areas\\UserArea\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAOIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:19:46.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lists.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Views\\User\\Lists.cshtml",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\UserArea\\Views\\User\\Lists.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Views\\User\\Lists.cshtml",
+              "RelativeToolTip": "To_Do_List\\Areas\\UserArea\\Views\\User\\Lists.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T22:16:09.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "To_Do_List\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "To_Do_List\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAmwJsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-17T22:10:09.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tasks.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Views\\User\\Tasks.cshtml",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\UserArea\\Views\\User\\Tasks.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Views\\User\\Tasks.cshtml",
+              "RelativeToolTip": "To_Do_List\\Areas\\UserArea\\Views\\User\\Tasks.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:17:45.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\UserArea\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\UserArea\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "To_Do_List\\Areas\\UserArea\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:17:11.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T19:12:05.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Project\\To_Do_List\\To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "To_Do_List\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T18:58:44.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 27,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
